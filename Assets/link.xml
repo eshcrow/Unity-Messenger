@@ -1,0 +1,8 @@
+<linker>
+  <assembly fullname="Matrix">
+    <type fullname="Matrix.*" preserve="all"/>
+  </assembly>
+  <assembly fullname="mscorlib">
+    <namespace fullname="System.Security.Cryptography" preserve="all" />
+  </assembly>
+</linker>
